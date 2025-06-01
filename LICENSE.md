@@ -1,0 +1,1 @@
+You’re free to use, copy, modify, and distribute this software for any purpose, even commercially. Just include the original license and copyright notice. The software is provided “as is” without warranty of any kind.
