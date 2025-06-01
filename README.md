@@ -116,9 +116,7 @@ Want to make a difference and spread Elon Musk’s legacy?
 
 We welcome:
 
-* **Content Creators**
-* **Designers**
-* **Social Media Ambassadors**
+* ** Anyone who loves Elon Musk
 
 Join us in creating the **largest Elon Musk fan community** in the universe.
 
