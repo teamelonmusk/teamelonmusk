@@ -123,7 +123,7 @@ We welcome:
 Join us in creating the **largest Elon Musk fan community** in the universe.
 
 
-##  Made with ♥️ by a superfan of Elon Musk## Hi there 👋
+##  Made with ♥️ by a superfan of Elon Musk
 
 <!--
 **teamelonmusk/teamelonmusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
