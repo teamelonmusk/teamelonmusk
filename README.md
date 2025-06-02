@@ -1,5 +1,7 @@
 # Team Elon Musk
-<img src="https://github.com/teamelonmusk/teamelonmusk/issues/1#issue-3108828523" alt="Team Elon Musk Banner" width="100"/>
+<p align="center">
+  <img src="https://your-image-host.com/banner.png" alt="Team Elon Musk Banner" width="100%" />
+</p>
 
 Welcome to **Team Elon Musk** — the largest superfan community of Elon Musk around the globe.
 
