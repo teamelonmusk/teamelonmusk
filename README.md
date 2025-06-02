@@ -46,7 +46,7 @@ This is a **community of love, admiration, and relentless belief** in making lif
 
 ---
 
-## 💖 Support the Movement
+## 💖 Support the Movement 
 
 To keep this community thriving and independent, please consider **volunteering or donating** to help us build the largest Elon Musk fan network in the world.
 
@@ -58,7 +58,7 @@ To keep this community thriving and independent, please consider **volunteering 
 
 [Become a Patron](https://patreon.com/teamelonmusk)
 
-### 💸 Crypto Donations (Click to Copy)
+### 💲 Crypto Donation:
 
 #### Bitcoin (BTC)
 
