@@ -125,6 +125,12 @@ UQB2cO0Hqip9MfP7esG6GJDEBeQEKfwGsTMm03XL86DkSHQH
  71689582
 ```
 
+#### XRP Ledger (XRP) 
+
+```
+rPZzPQyCRnFCnqYStfmGL4wR8rv7mhPAPF
+```
+
 ---
 
 
