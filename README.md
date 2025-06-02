@@ -12,7 +12,7 @@ Welcome to **Team Elon Musk** — the largest superfan community of Elon Musk ar
 
 Team Elon Musk was born from the passion of global superfans who believe in the mission and brilliance of Elon Musk. From colonizing Mars to advancing electric vehicles, artificial intelligence, and renewable energy, Elon Musk is actively contributing to humanity’s survival and evolution.
 
-We exist to:
+**We exist to:**
 
 * Defend Elon Musk against unwarranted hate
 * Spread awareness of his ventures and contributions
@@ -115,7 +115,8 @@ TQTG1E6PXMiBq4t4r6m9rjvoM4HrxAEGBU
 
 #### TON Network
 
-``` UQB2cO0Hqip9MfP7esG6GJDEBeQEKfwGsTMm03XL86DkSHQH
+```
+UQB2cO0Hqip9MfP7esG6GJDEBeQEKfwGsTMm03XL86DkSHQH
 ```
 
 #### Binance ID
