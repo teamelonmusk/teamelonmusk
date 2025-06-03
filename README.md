@@ -41,9 +41,9 @@ This is a **community of love, admiration, and relentless belief** in making lif
 
 ## 🌐 Join the Community
 
-* **X (Twitter):** [@teamelonmuskco](https://x.com/teamelonmuskHQ)
-* **YouTube:** [@teamelonmusk](https://youtube.com/@teamelonmusk)
-* **Telegram:** [Join Here](https://t.me/teamelonmusk)
+* **X (Twitter):** [Team Elon Musk](https://x.com/teamelonmuskHQ)
+* **YouTube:** [Team Elon Musk](https://youtube.com/@teamelonmusk)
+* **Telegram:** [Team Elon Musk](https://t.me/teamelonmusk)
 * **Discord:** Coming Soon
 * **Website:** Coming Soon
 
