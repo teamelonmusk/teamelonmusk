@@ -41,7 +41,7 @@ This is a **community of love, admiration, and relentless belief** in making lif
 
 ## 🌐 Join the Community
 
-* **X (Twitter):** [@teamelonmuskco](https://x.com/teamelonmuskco)
+* **X (Twitter):** [@teamelonmuskco](https://x.com/teamelonmuskHQ)
 * **YouTube:** [@teamelonmusk](https://youtube.com/@teamelonmusk)
 * **Telegram:** [Join Here](https://t.me/teamelonmusk)
 * **Discord:** Coming Soon
