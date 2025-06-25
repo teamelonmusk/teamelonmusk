@@ -133,7 +133,7 @@ rPZzPQyCRnFCnqYStfmGL4wR8rv7mhPAPF
 ---
 
 
-## 🙋‍♀️ We Are Looking for Volunteers
+## 🙋‍♀️ Want to Volunteers:
 
 Want to make a difference and spread Elon Musk’s legacy?
 
