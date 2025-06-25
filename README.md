@@ -1,8 +1,4 @@
 # Team Elon Musk
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/214283379/450004303-97428e0f-0c0f-4944-abe0-24b9764318f6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk0NTI1MTEsIm5iZiI6MTc0OTQ1MjIxMSwicGF0aCI6Ii8yMTQyODMzNzkvNDUwMDA0MzAzLTk3NDI4ZTBmLTBjMGYtNDk0NC1hYmUwLTI0Yjk3NjQzMThmNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYwOVQwNjU2NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMTU1NzNlM2Y1YmZhOTYzOTA0MmE0NTc1MWRiZjQzODdkMmJiNzFiN2IyN2Q4ZmU4ZDU5ZmUzNDQxNjViZmU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KV8mKab5vDYrLEAVAzpPXKCTKarFjG2l9hMerppV8Fo" alt="Team Elon Musk Banner" width="100%" />
-</p>
-
 Welcome to **Team Elon Musk** — the largest superfan community of Elon Musk around the globe.
 
 > We are **not officially associated** with Elon Musk or his companies. We are simply his biggest supporters, united in admiration for his vision and dedication to shaping humanity's future.
